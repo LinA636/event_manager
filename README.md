@@ -4,6 +4,8 @@ The Odin Project lesson: https://www.theodinproject.com/lessons/ruby-event-manag
 skillset:
 - erb
 - ruby
+- html
+- css
 
 learnings:
 - manipulate file input and output
